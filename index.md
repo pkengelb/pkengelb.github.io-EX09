@@ -3,9 +3,9 @@
 layout: default
 ---
 
-# COMP110 Data Analysis Project
+# COMP110 EX09
 
-## Project Summary
+## Assignment Summary
 
 For my project, I analyzed whether COMP110 should add short optional pre-class videos. My idea was that these videos could help students prepare before lecture, especially if they feel the course is difficult or moving quickly.
 
