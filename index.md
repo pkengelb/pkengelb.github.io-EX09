@@ -3,11 +3,6 @@
 layout: default
 ---
 
----
-# Do not edit the text between these lines!
-layout: default
----
-
 # COMP110 Data Analysis Project
 
 ## Project Summary
