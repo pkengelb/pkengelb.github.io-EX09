@@ -15,19 +15,19 @@ To explore this idea, I used the course survey data and focused on student respo
 
 The first chart shows how students rated their support for optional pre-class videos. Most students gave higher ratings, especially between 5 and 7. This suggests that many students would be interested in this kind of resource.
 
-![Student Support for Pre-Class Videos](static/imgs/pre_lecture_support.png)
+![Student Support for Pre-Class Videos](/pkengelb.github.io-EX09/static/imgs/pre_lecture_support.png)
 
 ## Support by Difficulty Group
 
 The second chart compares support for pre-class videos across low, medium, and high difficulty groups. Students who rated the course as more difficult tended to show higher average support for pre-class videos. This supports the idea that students who are having more trouble in the course may benefit from extra preparation before lecture.
 
-![Average Support by Difficulty Group](static/imgs/difficulty_group.png)
+![Average Support by Difficulty Group](/pkengelb.github.io-EX09/static/imgs/difficulty_group.png)
 
 ## Support by Course Pace
 
 The third chart compares course pace ratings with average support for pre-class videos. The graph shows a general rise in support as students rated the course pace higher. This suggests that students who feel the class moves quickly may be more interested in having pre-class videos available.
 
-![Average Support by Course Pace](static/imgs/course_pace.png)
+![Average Support by Course Pace](/pkengelb.github.io-EX09/static/imgs/course_pace.png)
 
 ## Conclusion
 

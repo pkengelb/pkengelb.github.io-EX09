@@ -22,7 +22,7 @@ title: Peter's EX09 Page
 email: pkengelb@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the EX09 page for Peter's Jekyll site. It includes some look into the correlation between the difficulty of a course and the coresponding support for the implamentation of pre-class videos.
-baseurl: "/EX09" # the subpath of your site, e.g. /blog
+baseurl: "/pkengelb.github.io-EX09" # the subpath of your site, e.g. /blog
 url: "pkengelb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
